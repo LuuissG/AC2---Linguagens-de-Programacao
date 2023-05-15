@@ -1,7 +1,5 @@
 <h1> ControlTech </h1>
 
-<h2> Versão : 0.1 </h2>
-
 Status do Projeto: ⚠️
 
 <h1>Descrição do Projeto</h1>
@@ -9,14 +7,12 @@ Status do Projeto: ⚠️
 
 <h1>Funcionalidades ⚙️ </h1>
 <ol>
-  <li> ✔️ Cadastramento de Usuários</li>
+  <li> ✔️ Cadastramento de Funcionários</li>
   <li> ✔️ Sistema de Login e validação de cadastros</li>
   <li> ⚠️ Cadastramento de Ambientes (Containers) para alocar items em diferentes lugares </li>
   <li> ⚠️ Cadastramento de Produtos e Items </li>
   <li> ⚠️ Gerenciamento dos items com base no atributos adicionados</li>
 </ol>
-
-<h1>Distribuição</h1>
 
 <h1>Requerimentos</h1>
 <ul>
@@ -69,8 +65,6 @@ Status do Projeto: ⚠️
     <l i>📝 Sistema de cadastro  </li>
     <li>📝 Conexão MySQL  </li>
     <li>📝 Persistência dos Dados (DAO)  </li>
-    <li>📝 Classes Models & Control  </li>
-    <li>📝 Finalização das principais classes e métodos para gerar uma versão Alpha  </li>
   </ul>
   
   <h1> Desenvolvedores </h1>
