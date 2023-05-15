@@ -66,7 +66,7 @@ Status do Projeto: ⚠️
   
   <h1> Recursos de inseridos 🧰 </h1>
   <ul>
-    <li>📝 Sistema de cadastro  </li>
+    <l i>📝 Sistema de cadastro  </li>
     <li>📝 Conexão MySQL  </li>
     <li>📝 Persistência dos Dados (DAO)  </li>
     <li>📝 Classes Models & Control  </li>
@@ -74,9 +74,8 @@ Status do Projeto: ⚠️
   </ul>
   
   <h1> Desenvolvedores </h1>
-  <h1> Luis Gustavo Rodrigues </h1>
-  <h1> Felipe Elias de Souza Camargo </h1>
-  <h1> Gabriel Queiroz Pereira Yamaya </h1>
-  <h1> Caio Augusto </h1>
-  <h1> Henrique Modolo </h1>
-    
+<p> Luis Gustavo Rodrigues </p>
+<p> Felipe Elias de Souza Camargo </p>
+<p> Gabriel Queiroz Pereira Yamaya </p>
+<p> Caio Augusto </p>
+<p> Henrique Modolo </p>
