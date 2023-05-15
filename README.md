@@ -1,12 +1,11 @@
 <h1> ControlTech </h1>
-<p Aplicativo para gestão de dados para funcionários (CRUD, efetivados e terceirizados).>
 
 <h2> Versão : 0.1 </h2>
 
 Status do Projeto: ⚠️
 
 <h1>Descrição do Projeto</h1>
-<p> Aplicativo desenvolvido em Java para dispositivos desktop com finalidade de gerenciamento de estoque doméstivo, com o objetivo de melhorar a qualidade de vida de pessoas com pouco tempo livre ou que moram sozinhas</p>
+<p> Aplicativo para gestão de dados para funcionários (CRUD, efetivados e terceirizados) para empresa ControlTech.</p>
 
 <h1>Funcionalidades ⚙️ </h1>
 <ol>
@@ -75,8 +74,9 @@ Status do Projeto: ⚠️
   </ul>
   
   <h1> Desenvolvedores </h1>
-  Felipe Elias de Souza Camargo (FelipeCherry3)
-  Gabriel Queiroz Pereira Yamaya
-  Caio Augusto 
-  Henrique Modolo
+  <h1> Luis Gustavo Rodrigues </h1>
+  <h1> Felipe Elias de Souza Camargo </h1>
+  <h1> Gabriel Queiroz Pereira Yamaya </h1>
+  <h1> Caio Augusto </h1>
+  <h1> Henrique Modolo </h1>
     
