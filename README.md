@@ -1,6 +1,6 @@
 <h1> ControlTech </h1>
 
-Status do Projeto: ⚠️
+<h1> Status do Projeto: ⚠️ </h1>
 
 <h1>Descrição do Projeto</h1>
 <p> Aplicativo para gestão de dados para funcionários (CRUD, efetivados e terceirizados) para empresa ControlTech.</p>
