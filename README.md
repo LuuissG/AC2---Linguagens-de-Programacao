@@ -17,7 +17,6 @@
   <ul>
     <li>📝 Sistema de cadastro  </li>
     <li>📝 Conexão MySQL  </li>
-    <li>📝 Persistência dos Dados (DAO)  </li>
   </ul>
   
 <h1>Uso</h1>
