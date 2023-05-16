@@ -15,7 +15,7 @@
 
 <h1> Recursos de inseridos 🧰 </h1>
   <ul>
-    <l i>📝 Sistema de cadastro  </li>
+    <li>📝 Sistema de cadastro  </li>
     <li>📝 Conexão MySQL  </li>
     <li>📝 Persistência dos Dados (DAO)  </li>
   </ul>
@@ -24,7 +24,7 @@
   <ol>
     <li>Cadastre seu usário e defina a sua categória.</li>
     <li>Faça login para entrar no sistema.</li>
-    <li>Gerencie os seus benefícios, folha de pagamento e suas horas trabahadas.</li>
+    <li>Gerencie os seus benefícios, folha de pagamento e suas horas trabalhadas.</li>
   </ol>
   
   <h1> Banco de Dados </h1>
