@@ -23,7 +23,6 @@
   <ol>
     <li>Cadastre seu usário e defina a sua categória.</li>
     <li>Faça login para entrar no sistema.</li>
-    <li>Gerencie os seus benefícios, folha de pagamento e suas horas trabalhadas.</li>
   </ol>
   
   <h1> Banco de Dados </h1>
