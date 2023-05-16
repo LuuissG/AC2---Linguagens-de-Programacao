@@ -2,16 +2,15 @@
 
 <h1> Status do Projeto: ⚠️ </h1>
 
-<h1>Descrição do Projeto</h1>
+<h1> Descrição do Projeto</h1>
 <p> Aplicativo para gestão de dados para funcionários (CRUD, efetivados e terceirizados) para empresa ControlTech.</p>
 
-<h1>Funcionalidades ⚙️ </h1>
+<h1> Funcionalidades ⚙️ </h1>
 <ol>
-  <li> ✔️ Cadastramento de Funcionários</li>
-  <li> ✔️ Sistema de Login e validação de cadastros</li>
-  <li> ⚠️ Cadastramento de Ambientes (Containers) para alocar items em diferentes lugares </li>
-  <li> ⚠️ Cadastramento de Produtos e Items </li>
-  <li> ⚠️ Gerenciamento dos items com base no atributos adicionados</li>
+  <li> ✔️ Cadastramento de Funcionários.</li>
+  <li> ✔️ Sistema de Login e Validação de Cadastros.</li>
+  <li> ✔️ Gerenciamento de Funcionários CRUD, efetivados e terceirizados. </li>
+
 </ol>
 
 <h1>Requerimentos</h1>
@@ -39,26 +38,15 @@
   <li>Clone ou baixe os repositórios em seu computador.</li>
 </ol>
 
-<h1>Configuração</h1>
-<ol>
-  <li>Abra o NetBeans IDE (ou plataforma de desenvolvimento equivalente) e importe o projeto Java.</li>
-  <li>Crie um banco de dados MySQL com o nome "bicoapp".</li>
-  <li>Configure as credenciais de acesso ao banco de dados MySQL que deseje.</li>
-  <li>Altere as configurações da classe <code>ConnectionFactory</code> com as credenciais inseridas no banco de dados MySQL.</li>
-  <li>Execute o script SQL no diretório <code>src/main/java/com/mycompany/bicowherev0/sql/bdbico.sql</code> para criar as tabelas necessárias no banco de dados "bicoapp".</li>
-  <li>Inicie a aplicação Java </li>
-  </ol>
 <h1>Uso</h1>
   <ol>
-    <li>Cadastre seu usário ou faça login para entrar no sistema .</li>
-    <li>Adicione os ambientes e seus containers para alocar os produtos</li>
-    <li>Cadastre os  produtos para o estoque doméstico fornecendo informações importantes para gerenciamento.</li>
-    <li>Gerencie o estoque doméstico, atualizando a quantidade de produtos disponíveis e removendo produtos que não estão mais em estoque.</li>
+    <li>Cadastre seu usário e defina a sua categória.</li>
+    <li>Faça login para entrar no sistema.</li>
+    <li>Gerencie os seus benefícios, folha de pagamento e suas horas trabahadas.</li>
   </ol>
+  
   <h1> Banco de Dados </h1>
   <p> MySQL / On-premise</p>
-  
-  <h1> Resolvendo Problemas </h1>
   
   <h1> Recursos de inseridos 🧰 </h1>
   <ul>
