@@ -3,13 +3,13 @@
 <h1> Status do Projeto: ⚠️ </h1>
 
 <h1> Descrição do Projeto</h1>
-<p> Aplicativo para gestão de dados para funcionários (CRUD, efetivados e terceirizados) para empresa ControlTech.</p>
+<p> Aplicativo para gestão de dados para funcionários (CRUD, Efetivados e Terceirizados) para empresa ControlTech.</p>
 
 <h1> Funcionalidades ⚙️ </h1>
 <ol>
   <li> ✔️ Cadastramento de Funcionários.</li>
   <li> ✔️ Sistema de Login e Validação de Cadastros.</li>
-  <li> ✔️ Gerenciamento de Funcionários CRUD, efetivados e terceirizados. </li>
+  <li> ✔️ Gerenciamento de Funcionários CRUD, Efetivados e Terceirizados. </li>
 
 </ol>
 
