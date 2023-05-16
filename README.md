@@ -13,31 +13,13 @@
 
 </ol>
 
-<h1>Requerimentos</h1>
-<ul>
-  <li>Java Development Kit (JDK) 8 ou superior</li>
-  <li>NetBeans IDE 8.2 ou superior</li>
-  <li>MySQL Community Server 8.0 ou superior</li>
-</ul>
-
-<h1>Linguagens, dependencias e libs utilizadas 📚 </h1>
-<ul>  
-  <li> Linguagem e Ecossistema Java JDK</li>
-  <li> Biblioteca JDBC </li>
-  <li> Java Swing & JavaFX </li>
+<h1> Recursos de inseridos 🧰 </h1>
+  <ul>
+    <l i>📝 Sistema de cadastro  </li>
+    <li>📝 Conexão MySQL  </li>
+    <li>📝 Persistência dos Dados (DAO)  </li>
   </ul>
   
-
-<p>O projeto está sendo desenvolvido na plataforma NetBeans mas neste momento pode ser inicializado e analisado em qualquer ambiente de desenvolvimento Java.</p>
-
-<h1>Instalação</h1>
-<ol>
-  <li>Instale o Java Development Kit (JDK) a partir do site oficial da Oracle.</li>
-  <li>Instale o NetBeans IDE a partir do site oficial da Apache NetBeans.</li>
-  <li>Instale o MySQL Community Server a partir do site oficial da Oracle.</li>
-  <li>Clone ou baixe os repositórios em seu computador.</li>
-</ol>
-
 <h1>Uso</h1>
   <ol>
     <li>Cadastre seu usário e defina a sua categória.</li>
@@ -47,14 +29,7 @@
   
   <h1> Banco de Dados </h1>
   <p> MySQL / On-premise</p>
-  
-  <h1> Recursos de inseridos 🧰 </h1>
-  <ul>
-    <l i>📝 Sistema de cadastro  </li>
-    <li>📝 Conexão MySQL  </li>
-    <li>📝 Persistência dos Dados (DAO)  </li>
-  </ul>
-  
+ 
   <h1> Desenvolvedores </h1>
 <p> Luis Gustavo Rodrigues </p>
 <p> Felipe Elias de Souza Camargo </p>
